@@ -1,24 +1,45 @@
-\# **House Price Prediction**
-
-
-
-
-
 My first Machine Learning project.
 
 
+# House Price Prediction
 
-This project predicts house prices using Linear Regression. Using datset name called "Housing" dataset  
+## Overview
 
+This project predicts house prices using Machine Learning (Linear Regression).
 
+## Features Used
 
-Tools Used:
+* Area
+* Bedrooms
+* Bathrooms
+* Stories
+* Parking
+* Furnishing Status
 
-\- Python
+## Technologies
 
-\- Pandas
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Power BI
 
-\- Scikit-Learn
+## Workflow
 
-\- Power BI
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Model Training
+4. Prediction
+5. Model Evaluation
+6. Dashboard Creation
 
+## Files
+
+* house_price_prediction.ipynb
+* prediction_results.csv
+* HousePriceDashboard.pbix
+* housing.csv
+
+## Author
+
+Uday Simha Thummaluru
