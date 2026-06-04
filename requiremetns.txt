@@ -1,0 +1,9 @@
+Requirements for project
+
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
